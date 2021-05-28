@@ -11,6 +11,7 @@ export default function App() {
             <HooksCakeContainer />
             <IceCreamContainer />
             <NewCakeContainer />
+            <h1>welcome to my page</h1>
         </Provider>
     </>
     )
